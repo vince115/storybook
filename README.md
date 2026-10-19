@@ -7,7 +7,7 @@
 
 ## 研究背景
 
-| | |
+| 項目 | 內容 |
 |---|---|
 | 論文 | 兒童數位圖書館資訊視覺化網站設計─以圓夢繪本資料庫為例 |
 | 英文題名 | Children Digital Library Information Visualization Website Design - A Case Study of Picture Book Database |
