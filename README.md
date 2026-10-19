@@ -11,7 +11,7 @@
 |---|---|
 | 論文 | 兒童數位圖書館資訊視覺化網站設計─以圓夢繪本資料庫為例 |
 | 英文題名 | Children Digital Library Information Visualization Website Design - A Case Study of Picture Book Database |
-| 學校系所 | 國立臺北科技大學 互動設計系碩士班（職） |
+| 學校系所 | 國立臺北科技大學 互動設計系 碩士在職班 |
 | 學年度 / 口試日期 | 104 學年度 / 2016-06-17 |
 | 關鍵詞 | 兒童資訊尋求、使用者介面設計、資訊視覺化 |
 | 永久網址 | <https://hdl.handle.net/11296/n695tk>（臺灣博碩士論文知識加值系統） |
